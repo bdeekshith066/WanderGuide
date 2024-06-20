@@ -26,6 +26,8 @@ def app():
 
     # Render the gradient text
     st.markdown(gradient_text_html, unsafe_allow_html=True)
+
+    st.image('varsha/divider.png')
     
    
 
