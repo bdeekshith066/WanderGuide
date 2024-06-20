@@ -24,6 +24,7 @@ def app():
     st.markdown(gradient_text_html, unsafe_allow_html=True)
     st.write(":orange[Your Banglore travel companion]")
 
+    st.image('varsha/divider.png')
     
 
     st.write('Planning a trip has never been easier with WanderGuide, your ultimate travel companion designed to simplify every step of your journey. Our platform provides comprehensive travel planning services that cater to your unique needs and preferences. Whether you are looking to explore exotic destinations, plan a family vacation, or embark on a solo adventure, WanderGuide ensures a seamless and enjoyable travel experience. With personalized itineraries, budget-friendly options, and expert recommendations, we take the hassle out of travel planning, allowing you to focus on making unforgettable memories.')
