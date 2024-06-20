@@ -19,7 +19,7 @@ def app():
 
     st.markdown(gradient_text_html, unsafe_allow_html=True) 
     st.write(":orange[Explore the vibrant city of Bangalore with our guide to its must-visit places, featuring detailed insights and travel tips.]") 
-    st.image('divider.png')
+    st.image('varsha/divider.png')
 
     st.write('')
 
